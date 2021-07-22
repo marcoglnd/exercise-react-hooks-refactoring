@@ -2,11 +2,11 @@
 
 import React from 'react';
 import './App.css';
-import Cars from './Cars';
+import Carsfunc from './Carsfunc';
 
 function App() {
   return (
-    <Cars />
+    <Carsfunc />
   );
 }
 
